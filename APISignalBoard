@@ -1,0 +1,23 @@
+
+---
+
+### **2. 30_APISignalBoard**  
+**Description:**  
+Monitors and logs the health and latency of a group of API endpoints.
+
+#### **README.md**
+```markdown
+# APISignalBoard - Multi-Endpoint Monitor
+
+APISignalBoard is a fast, lightweight utility for watching multiple APIs and generating clean availability reports.
+
+## Features
+- Logs status and latency  
+- Tabular CLI summary  
+- Optional JSON export  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_APISignalBoard.git
+cd 30_APISignalBoard
+python monitor.py
