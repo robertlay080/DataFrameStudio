@@ -1,0 +1,23 @@
+
+---
+
+### **3. 30_LogFlickScanner**  
+**Description:**  
+Detects bursts, patterns, and repetition in log files using time-aware filtering.
+
+#### **README.md**
+```markdown
+# LogFlickScanner - Log Activity Analyzer
+
+LogFlickScanner identifies repeated log entries, alert bursts, and clustered events that may indicate instability.
+
+## Features
+- Timestamp correlation  
+- Pattern matching  
+- Frequency breakdown  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_LogFlickScanner.git
+cd 30_LogFlickScanner
+python analyze.py /var/log/app.log
