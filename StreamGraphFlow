@@ -1,0 +1,23 @@
+
+---
+
+### **4. 30_StreamGraphFlow**  
+**Description:**  
+Displays real-time numerical input as a flowing line graph with scrollable history.
+
+#### **README.md**
+```markdown
+# StreamGraphFlow - Real-Time Data Visualizer
+
+StreamGraphFlow makes it easy to monitor live data for metrics, dashboards, or system diagnostics.
+
+## Features
+- Real-time charting  
+- Scrollable view  
+- Lightweight + smooth  
+
+## Usage
+```bash
+git clone https://github.com/your-username/30_StreamGraphFlow.git
+cd 30_StreamGraphFlow
+python visualize.py
